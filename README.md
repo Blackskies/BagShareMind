@@ -1,0 +1,2 @@
+# BagShareMind
+BagShare Backend service 
