@@ -9,8 +9,7 @@ Go Lang : v1.20.4
 ## Installation of packages
 
 - Installing gin
-
-`$ go get -u github.com/gin-gonic/gin`
+    `$ go get -u github.com/gin-gonic/gin`
 
 ## Troubleshooting
 
