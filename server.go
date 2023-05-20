@@ -20,7 +20,8 @@ func main() {
 
 	// Gin Routes
 	router.GET("/health", routes.Health_Check)
-	router.GET("/bookings/all", routes.All_Bookings)
+	router.GET("/flights", routes.All_Flights)
+	router.GET("/bags/all", routes.All_Bags)
 
 	// Gin Server
 	router.Run("0.0.0.0:5000")
